@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "Laptop gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Teléfono móvil",
+      "description": "Teléfono inteligente de última generación",
+      "price": 699,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch",
+      "description": "Reloj inteligente con seguimiento de actividad",
+      "price": 199,
+      "inStock": true
+    },
+    {
+      "name": "Nueva Tarea",
+      "description": "Esto es una Tarea de prueba",
+      "price": "123456",
+      "inStock": true,
+      "id": 5
+    }
+  ]
+}
